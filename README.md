@@ -1,0 +1,3 @@
+- https://www.linkedin.com/pulse/spark-drools-integration-poc-sai-krishna-pujari/
+- https://sujitpal.blogspot.com/2014/02/a-drools-example-with-scala.html
+- 
